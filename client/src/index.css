@@ -1,0 +1,24 @@
+.mt-2{
+  margin-top: 6rem;
+}
+.flex{
+  display: flex;
+}
+.justify-content{
+  justify-content: center;
+}
+.align-item{
+align-items: center;
+}
+.ml-5{
+  margin-left: 5rem;
+}
+.flex-direction-col{
+  flex-direction: column;
+}
+.flex-direction-row{
+  flex-direction: row;
+}
+.flex-end{
+  justify-content:flex-end;
+}
